@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+.card-title{
+    color:black; 
+}
+
+hr{
+    background-color: white;
+}
